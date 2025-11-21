@@ -247,6 +247,7 @@ body {
     height: 100%;
     -o-object-fit: cover;
     object-fit: cover;
+    user-select: none;
 }
 .home-photo__delivery {
     position: absolute;
@@ -397,6 +398,7 @@ body {
     justify-content: space-between;
     padding: 1.6rem;
     border-radius: 5rem;
+    user-select: none;
 }
 .order-btn__icon {
     width: 1.6rem;
