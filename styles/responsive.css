@@ -1,14 +1,12 @@
 @media screen and (max-width: 992px) {
-    * {
         .menu__categories-item,
-        menu-item__content-logo,
+        .menu-item__content-logo,
         svg,
         button,
         a {
             cursor: none!important;
         }
     }
-}
 
 @media screen and (min-width: 400px) {
     .nav__links {
