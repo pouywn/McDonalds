@@ -1,6 +1,12 @@
 @media screen and (max-width: 992px) {
     * {
-        cursor: none!important;
+        .menu__categories-item,
+        menu-item__content-logo,
+        svg,
+        button,
+        a {
+            cursor: none!important;
+        }
     }
 }
 
